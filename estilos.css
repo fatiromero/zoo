@@ -1,0 +1,56 @@
+body {
+	text-align: center;
+    background-image: radial-gradient(circle at 62.78% 27.87%, #d8ff5a 0, #b6ff5c 16.67%, #89ff5b 33.33%, #46f957 50%, 
+    	#00e957 66.67%, #00de5e 83.33%, #00d76b 100%);                                                                                                
+}
+h1 {
+	text-transform: uppercase;
+	font-size: 50px;
+}
+ul {
+	list-style: none;
+}
+li {
+	display: inline-block;
+	text-align: center;
+	padding: 15px;
+	font-size: 25px;
+}
+img {
+	width:800px;
+	height:500px;
+}
+img.animal {
+	width: 300px; 
+	height:290px;
+	margin: top;
+}
+img.extinción {
+	padding: 50px 50px;
+	width: 350px;
+	height: 330px;
+	text-align: left;
+}
+a.lista {
+	display: inline-grid;
+}
+img.mapa {
+	width: 1000px;
+    height: 500px;
+}
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 25px;
+}
+p {
+	font-size: 20px;
+	background-color: #BDFEE7;
+	text-align: justify;
+}
+li.animals {
+	font-size: 20px;
+	text-align: left;
+	background-color: #FFF300;
+}
